@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://adelaide-finance-broker-comparison-av-101.ondigitalocean.app/sitemap.xml
+Sitemap: https://sites-e470-2.web.app/adelaide-finance-broker-comparison-av-101/sitemap.xml
