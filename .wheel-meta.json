@@ -1,23 +1,24 @@
 {
   "wheel_id": 89,
+  "structure": "wheel",
   "slug": "afb-vc-101",
-  "project": "adelaide-finance-broker-comparison-av-101",
-  "parent_t1_ref": "afb-vc-001",
+  "project": "adelaide-finance-broker-comparison-b27dab6d4564f550659e62334e26",
+  "parent_t1_ref": "afb-vc-151",
   "node_role": "feeder",
   "money_target": "adelaidefinancebroker.com.au",
   "primary_kw": "adelaide finance broker comparison",
-  "intended_url": "https://sites-e470-2.web.app/adelaide-finance-broker-comparison-av-101/",
+  "intended_url": "http://adelaide-finance-broker-comparison-b27dab6d4564f550659e62334e26.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "c746f406517cb127",
   "links": [
     {
-      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "target_url": "https://sitesau.github.io/afb-vc-151/",
       "anchor": "adelaide finance broker",
       "rel": "follow"
     },
     {
-      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
-      "anchor": "adelaide finance broker",
+      "target_url": "https://aumedia.neocities.org/adelaide-finance-broker-costs-8aa5c65ea581158be551a8696974f014f/",
+      "anchor": "adelaide finance broker costs",
       "rel": "follow"
     }
-  ],
-  "structure": "wheel"
+  ]
 }
